@@ -1,3 +1,5 @@
+//The aim was to write a program that will register runners for the race and give them instructions on race day.
+
 let raceNumber = Math.floor(Math.random() * 1000);
 let registeredEarly = false;
 let runnersAge = 18;
